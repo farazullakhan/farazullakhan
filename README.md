@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web development
 - 🌱 I’m currently learning advance css
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me using the social links in my portfolio. Portfolio link in profile bio section.
+- 📫 How to reach me - use the social links in my portfolio. Portfolio link in profile bio section.
 
 <!---
 farazullakhan/farazullakhan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
