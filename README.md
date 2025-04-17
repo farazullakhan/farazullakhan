@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Web development, MERN**
 
-- 👨‍💻 All of my projects are available at [farazulla.me](farazulla.me)
+- 👨‍💻 All of my projects are available at [faraz.automate](faraz-automate.netlify.app)
 
 - 📫 How to reach me **farazullakhan7772@gmail.com**
 
